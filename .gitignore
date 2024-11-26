@@ -1,0 +1,22 @@
+# Ignore build files
+/build
+*.o
+*.obj
+*.exe
+*.dll
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# Ignore Visual Studio generated files
+*.sln
+*.vcxproj*
+*.ncb
+*.user
+*.suo
+*.ipch
+*.pch
